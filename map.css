@@ -1,0 +1,33 @@
+#map{
+    height: 70vh;
+    width: 100hw;
+}
+
+h1{
+    color:darkblue;
+    font-family: Verdana;
+    text-align: center;
+}
+
+select{
+    font-family: Verdana;
+    font-size: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+.banner{
+    height: 12vh;
+    width: 60%;
+    margin-left: 20%;
+    
+}
+
+.logo{
+    height: 90px;
+    width: 90px;
+    position: absolute;
+    margin-top: 2px;
+    margin-left: 90%;
+    
+}
